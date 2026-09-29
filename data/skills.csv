@@ -1,0 +1,9 @@
+career,required_skills
+AI Engineer,"Python,Machine Learning,Deep Learning,APIs,Git,SQL"
+Machine Learning Engineer,"Python,Machine Learning,Statistics,SQL,Git"
+Data Scientist,"Python,Statistics,SQL,Machine Learning,Visualization"
+Data Analyst,"Excel,SQL,Python,Power BI,Statistics"
+Deep Learning Engineer,"Python,Deep Learning,TensorFlow,PyTorch,Computer Vision"
+Computer Vision Engineer,"Python,OpenCV,Deep Learning,CNN,Computer Vision"
+NLP Engineer,"Python,NLP,Transformers,Machine Learning,APIs"
+Generative AI Engineer,"Python,LLM,Prompt Engineering,RAG,APIs"
